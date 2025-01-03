@@ -1,0 +1,49 @@
+RED TEAM FUNDAMENTALS
+
+In cybersecurity, a Red Team is a group of ethical hackers or security professionals who simulate real-world cyberattacks to test an organization's defenses. Their main goal is to identify vulnerabilities in systems, networks.
+
+1)API
+
+APT (Advanced Persistent Threat) is a cyber attack carried out by sophisticated attackers.
+   i)Stay hidden in a system or network for an extended period (days, weeks, or even months).
+  ii)Are difficult to detect.Have the main goal of stealing critical data, such as intellectual property, sensitive information, or financial records.
+
+2)TTP
+ 
+TTPs (Tactics, Techniques, and Procedures) are patterns or methods that attackers use to carry out their attacks.
+   i)Tactics: The goal of the attacker (e.g., stealing data, gaining unauthorized access).
+  ii)Techniques: The methods used to achieve that goal (e.g., phishing emails, exploiting software vulnerabilities).
+ iii)Procedures: The specific steps or actions taken to carry out the techniques (e.g., writing a fake email, using a certain hacking tool).
+So, TTPs are the patterns or methods hackers use to plan and execute attacks.
+
+3)THREE TEAMS OR CELLS
+
+  i)Red Cell
+ ii)Blue Cell
+iii)White cell
+
+i)Red Cell
+ Role: The attackers.
+ Purpose: Their job is to simulate real-world cyberattacks to test the defenses of an       organization.
+ Goal: They try to find weaknesses, break into systems, and steal data or disrupt operations, just like real hackers or cybercriminals would do.
+
+ii)Blue Cell
+  
+Role: The defenders.
+Purpose: Their job is to protect the system and respond to the Red Team's attacks.
+Goal: They try to detect and block the attacks, and defend the network, systems, and data. They use tools like firewalls, intrusion detection systems, and incident response protocols to defend.
+
+iii)White Cell
+
+ white team is the monitoring the red and blue team .White Team watches and makes sure everything is fair and correct.
+ 
+
+   
+
+
+
+
+
+
+
+
