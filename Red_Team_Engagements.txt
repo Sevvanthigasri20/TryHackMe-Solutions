@@ -1,0 +1,16 @@
+RED TEAM ENGAGEMENTS
+
+A Red Team engagement is a type of cybersecurity exercise where a group of security experts, known as the Red Team, simulates an attack on an organization’s systems to test its security defenses. The goal is to assess how well the organization’s security measures stand up against real-world attack scenarios and to identify vulnerabilities that could be exploited by actual attackers.
+
+CIDR
+
+In Red Team Engagements, CIDR (Classless Inter-Domain Routing) is used to efficiently manage and target large ranges of IP addresses during the various stages of the engagement, including reconnaissance, vulnerability scanning, and exploitation. 
+
+What CIDR range is permitted to be attacked?
+Attacks against systems within 10.0.4.0/22 are permitted.
+
+Is the use of white cards permitted? (Y/N)
+Yes
+
+Are you permitted to access "*.bethechange.xyz?" (Y/N)
+No
