@@ -1,0 +1,11 @@
+DNS SPOOFING ATTACK
+
+What is Domain Name System (DNS) Spoofing?
+Domain Name Server (DNS) spoofing, or DNS cache poisoning, is an attack involving manipulating DNS records to redirect users toward a fraudulent, malicious website that may resemble the user’s intended destination. 
+Once on the fraudulent site, users are deceived into logging in to what they believe is their genuine account, thereby enabling the attacker to steal access credentials or other sensitive information. The fraudulent website can install worms or viruses on the user’s computer secretively, giving the attacker sustained access to the user’s device and data.
+
+How Does DNS Spoofing Work?
+DNS spoofing works by exploiting flaws in the DNS and its associated protocols. An attack can be accomplished in several ways: 
+A malicious actor may use address resolution protocol (ARP) to access router traffic and alter the domain name resolution records. 
+The attacker can modify an authoritative DNS server’s records, redirecting traffic to the fraudulent website. 
+The attacker can target an intermediate name server and exploit weaknesses in its caching system to perform a Man-in-the-Middle (MITM) attack.
